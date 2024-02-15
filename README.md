@@ -1,6 +1,6 @@
 # C console app - Parcels
 
-## Customization and Features
+## Features
 
 This README provides details about the project:
 
